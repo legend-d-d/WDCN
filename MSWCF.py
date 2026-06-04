@@ -192,13 +192,13 @@ class MSWCF_Block2(nn.Module):
         return out
 
 class MSWCF_Classifier(nn.Module):
-        def __init__(self,
-                 in_channels: int = 1,
-                 channels: int = 32,
-                 levels: int = 3,
-                 kernel_size: int = 3,
-                 num_classes: int = 7
-                 ):
+    def __init__(self,
+             in_channels: int = 1,
+             channels: int = 32,
+             levels: int = 3,
+             kernel_size: int = 3,
+             num_classes: int = 7
+             ):
         super().__init__()
         self.channels = channels
         self.num_classes = num_classes
