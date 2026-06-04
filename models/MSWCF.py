@@ -81,7 +81,7 @@ class MSWCF_module(nn.Module):
         )
         self.dwt = HaarDWT1D()        
         self.scale_convs = nn.ModuleList([
-            PWConv1d(channels=2 * channels, kernel_size=kernel_size)
+            PW_Conv1d(channels=2 * channels, kernel_size=kernel_size)
             for _ in range(levels)
         ])
         self.k1 = nn.ParameterList([
