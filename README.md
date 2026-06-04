@@ -2,6 +2,10 @@
 * Core codes for the paper:
 * WDCN: A Robust Lightweight Framework for Cross-Domain Fault Diagnosis under Data Scarcity and Noise
 
+<div align="center">
+<img src="https://github.com/legend-d-d/WDCN/blob/main/WDCN_Framework.png" width="600" />
+</div>
+
 ## Operating environment
 * python 3.9.20
 * pytorch 2.5.1
