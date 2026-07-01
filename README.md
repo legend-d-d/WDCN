@@ -1,6 +1,6 @@
-# WDCN: A Robust Lightweight Framework for Cross-Domain Fault Diagnosis under Data Scarcity and Noise
+# WDCN: A Wavelet-Driven Contrastive Network for Cross-Domain Fault Diagnosis under Data Scarcity and Noise
 * Core codes for the paper:
-* WDCN: A Robust Lightweight Framework for Cross-Domain Fault Diagnosis under Data Scarcity and Noise
+* WDCN: A Wavelet-Driven Contrastive Network for Cross-Domain Fault Diagnosis under Data Scarcity and Noise
 
 <div align="center">
 <img src="https://github.com/legend-d-d/WDCN/blob/main/WDCN_Framework.png" width="600" />
