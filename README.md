@@ -3,7 +3,7 @@
 * WDCN: A Wavelet-Driven Contrastive Network for Cross-Domain Fault Diagnosis under Data Scarcity and Noise
 
 <div align="center">
-<img src="https://github.com/legend-d-d/WDCN/blob/main/WDCN_Framework.png" width="600" />
+<img src="https://github.com/legend-d-d/WDCN/blob/main/overview.png" width="600" />
 </div>
 
 ## Operating environment
