@@ -1,6 +1,6 @@
-# WDCN: A Wavelet-Driven Contrastive Network for Cross-Domain Fault Diagnosis under Data Scarcity and Noise
+# A Wavelet-Driven Contrastive Network for Cross-Domain Bearing Fault Diagnosis under Data Scarcity and Noise
 * Core codes for the paper:
-* WDCN: A Wavelet-Driven Contrastive Network for Cross-Domain Fault Diagnosis under Data Scarcity and Noise
+* A Wavelet-Driven Contrastive Network for Cross-Domain Bearing Fault Diagnosis under Data Scarcity and Noise
 
 <div align="center">
 <img src="https://github.com/legend-d-d/WDCN/blob/main/overview.png" width="600" />
